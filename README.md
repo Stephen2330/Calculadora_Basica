@@ -1,4 +1,4 @@
-* Cualquier donación al PayPal por favor, y se los agradeceré montones:  paypal.me/stephen233037
+* Cualquier donación al PayPal es bienvenida, y se los agradeceré montones:  paypal.me/stephen233037
 
 Se adjuntan capturas de pantalla de cómo se ve la app (Perdón si el diseño no es muy bonito, no soy bueno diseñañdo :c )
 
