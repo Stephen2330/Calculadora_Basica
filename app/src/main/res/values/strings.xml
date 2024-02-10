@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora básica</string>
+    <string name="welcome_text">Bienvenido a calculadora básica</string>
+    <string name="welcome_btn">Iniciar calculadora</string>
+    <string name="first_number_text">Primer número</string>
+    <string name="second_number_text">Segundo número</string>
+    <string name="result_text">Resultado</string>
+    <string name="sum_text">+</string>
+    <string name="substract_text">-</string>
+    <string name="product_text">*</string>
+    <string name="division_text">/</string>
+    <string name="hint_first_number">Escriba primer número</string>
+    <string name="hint_second_number">Escriba segundo número</string>
+    <string name="hint_result">Resultado</string>
+    <string name="clear_input_text">Limpiar</string>
+</resources>
